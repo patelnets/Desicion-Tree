@@ -1,0 +1,120 @@
+==============================
+Metrics for clean dataset, where pruning is  False
+Confusion matrix Average: [[49.6  0.   0.2  0.2]
+ [ 0.  47.5  2.5  0. ]
+ [ 0.5  1.8 47.4  0.3]
+ [ 0.5  0.   0.3 49.2]]
+For class 1:
+The Precision Average : 0.9792935745315094
+The Recall Average: 0.9915299514810552
+The F1 Measure Average: 0.9852045788427053
+Class Rate  Average: 0.9685000000000002
+Max Depth Average: 12.7
+For class 2:
+The Precision Average : 0.9634387149155862
+The Recall Average: 0.9508573893246383
+The F1 Measure Average: 0.956800555187873
+Class Rate  Average: 0.9685000000000002
+Max Depth Average: 12.7
+For class 3:
+The Precision Average : 0.9406798866184319
+The Recall Average: 0.9482160090096126
+The F1 Measure Average: 0.9440307940283811
+Class Rate  Average: 0.9685000000000002
+Max Depth Average: 12.7
+For class 4:
+The Precision Average : 0.9905674281503315
+The Recall Average: 0.9846776844709184
+The F1 Measure Average: 0.9874610813064616
+Class Rate  Average: 0.9685000000000002
+Max Depth Average: 12.7
+==============================
+Metrics for clean dataset, where pruning is  True
+Confusion matrix Average: [[4.96444444e+01 0.00000000e+00 3.22222222e-01 3.33333333e-02]
+ [0.00000000e+00 4.75777778e+01 2.42222222e+00 0.00000000e+00]
+ [5.66666667e-01 2.23333333e+00 4.68000000e+01 4.00000000e-01]
+ [5.22222222e-01 0.00000000e+00 3.11111111e-01 4.91666667e+01]]
+For class 1:
+The Precision Average : 0.9786118545110609
+The Recall Average: 0.9922551230910561
+The F1 Measure Average: 0.9851796250968852
+Class Rate  Average: 0.9659444444444446
+Max Depth Average: 6.977777777777778
+For class 2:
+The Precision Average : 0.9562188758257142
+The Recall Average: 0.9519019398105486
+The F1 Measure Average: 0.9534426496509592
+Class Rate  Average: 0.9659444444444446
+Max Depth Average: 6.977777777777778
+For class 3:
+The Precision Average : 0.9372216606021867
+The Recall Average: 0.9341508006864526
+The F1 Measure Average: 0.9348254959978631
+Class Rate  Average: 0.9659444444444446
+Max Depth Average: 6.977777777777778
+For class 4:
+The Precision Average : 0.991890574984156
+The Recall Average: 0.9842533041044539
+The F1 Measure Average: 0.9878360245103849
+Class Rate  Average: 0.9659444444444446
+Max Depth Average: 6.977777777777778
+==============================
+Metrics for noisy dataset, where pruning is  False
+Confusion matrix Average: [[38.4  3.2  3.2  4.2]
+ [ 3.1 40.   4.2  2.4]
+ [ 3.   4.4 40.8  3.3]
+ [ 3.8  2.6  4.  39.4]]
+For class 1:
+The Precision Average : 0.791606471629809
+The Recall Average: 0.7828662495345804
+The F1 Measure Average: 0.78421248759678
+Class Rate  Average: 0.793
+Max Depth Average: 18.5
+For class 2:
+The Precision Average : 0.7935511384040806
+The Recall Average: 0.8045602197005514
+The F1 Measure Average: 0.7953368360294034
+Class Rate  Average: 0.793
+Max Depth Average: 18.5
+For class 3:
+The Precision Average : 0.7845735733256068
+The Recall Average: 0.7963993179409035
+The F1 Measure Average: 0.7871230623766123
+Class Rate  Average: 0.793
+Max Depth Average: 18.5
+For class 4:
+The Precision Average : 0.8040752529276509
+The Recall Average: 0.7910623448166908
+The F1 Measure Average: 0.7953210564844599
+Class Rate  Average: 0.793
+Max Depth Average: 18.5
+==============================
+Metrics for noisy dataset, where pruning is  True
+Confusion matrix Average: [[43.9         1.2         1.6         2.3       ]
+ [ 1.91111111 43.63333333  2.95555556  1.2       ]
+ [ 2.26666667  3.33333333 44.07777778  1.82222222]
+ [ 2.22222222  1.52222222  1.87777778 44.17777778]]
+For class 1:
+The Precision Average : 0.8711280869662813
+The Recall Average: 0.8978993717123434
+The F1 Measure Average: 0.8832760073944615
+Class Rate  Average: 0.8789444444444443
+Max Depth Average: 9.488888888888889
+For class 2:
+The Precision Average : 0.8787474995151128
+The Recall Average: 0.878414314299702
+The F1 Measure Average: 0.8776536453608234
+Class Rate  Average: 0.8789444444444443
+Max Depth Average: 9.488888888888889
+For class 3:
+The Precision Average : 0.8740681471078886
+The Recall Average: 0.8571010176730318
+The F1 Measure Average: 0.8643525414917421
+Class Rate  Average: 0.8789444444444443
+Max Depth Average: 9.488888888888889
+For class 4:
+The Precision Average : 0.8952447721674907
+The Recall Average: 0.8877981270097657
+The F1 Measure Average: 0.8904137059750487
+Class Rate  Average: 0.8789444444444443
+Max Depth Average: 9.488888888888889
